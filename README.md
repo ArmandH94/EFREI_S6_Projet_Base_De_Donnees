@@ -1,5 +1,6 @@
-# Projet_Base_De_Donnees
+# Projet_Base_De_Donnees (Project : database management)
 Projet bdd L3 Efrei Paris
+
 
 Pour récuperer le projet :  
 > git clone https://github.com/ArmandH94/Projet_Base_De_Donnees
